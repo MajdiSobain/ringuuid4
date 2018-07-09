@@ -1,6 +1,6 @@
 # RingUUID4
 
-This ring extension contains one function only called (newuuid4) this function return a new random UUID (version 4) whenever it is been called.
+This ring extension contains one function only called (newuuid4) this function returns a new random UUID (version 4) whenever it's been called.
 
 This library is a cross platform but I have built and tested it on Ubutnu only.
 
